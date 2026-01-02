@@ -1,0 +1,25 @@
+/*
+COLOR PALETTE
+#00312e dark green
+#066255 light green
+#039f9b turquoise
+#fad3d8 light pink
+#e090ad dark pink
+*/
+
+$dark-green: #00312e;
+$light-green: #066255;
+$turquoise: #039f9b;
+$light-pink: #fad3d8;
+$dark-pink: #e090ad;
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: $light-pink;
+  color: $dark-green;
+}
+
+h1 {
+  color: $dark-green;
+}

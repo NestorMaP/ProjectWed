@@ -1,0 +1,20 @@
+/*
+COLOR PALETTE
+#00312e dark green
+#066255 light green
+#039f9b turquoise
+#fad3d8 light pink
+#e090ad dark pink
+*/
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #fad3d8;
+  color: #00312e;
+}
+
+h1 {
+  color: #00312e;
+}
+
+/*# sourceMappingURL=styles.css.map */
